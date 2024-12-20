@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.bgimage{
+    background-image: url(https://www.w3schools.com/w3images/parallax1.jpg);
+    height: 900px;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 70%;
+    background-position: center;
+    position: static;
+}
+.logo{
+    height: 100px;
+    width: 50%;
+    background-color:black;
+    display: block;
+    color: aliceblue;
+    padding: 20px;
+}
